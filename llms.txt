@@ -1,0 +1,140 @@
+# What Happens When You File Bankruptcy? [2026]
+> What happens when you file bankruptcy? Timeline from filing to discharge, automatic stay, 341 meeting, and what creditors can and canno...
+
+## About
+whathappensinbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- What Happens When You File Bankruptcy?: https://whathappensinbankruptcy.com/
+- What Is 341 Meeting in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/341-meeting.html
+- What Is Abandonment in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/abandonment.html
+- What Is Above Median Income in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/above-median-income.html
+- What Is Adequate Protection in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/adequate-protection.html
+- What Is Adversary Proceeding in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/adversary-proceeding.html
+- What Is Automatic Stay in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/automatic-stay.html
+- What Is Avoidance Action in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/avoidance-action.html
+- What Is Bankruptcy Estate in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/bankruptcy-estate.html
+- What Is Bankruptcy Petition in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/bankruptcy-petition.html
+- What Is Bare Petition in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/bare-petition.html
+- What Is Best Interests Test in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/best-interests-test.html
+- What Is Case Trustee in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/case-trustee.html
+- What Is Chapter 11 in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/chapter-11.html
+- What Is Chapter 13 in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/chapter-13.html
+- What Is Chapter 7 in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/chapter-7.html
+- What Is Claim in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/claim.html
+- What Is Confirmation in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/confirmation.html
+- What Is Cram Down in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/cram-down.html
+- What Is Current Monthly Income in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/current-monthly-income.html
+- What Is Debtor in Possession in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/debtor-in-possession.html
+- What Is Discharge Injunction in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/discharge-injunction.html
+- What Is Discharge in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/discharge.html
+- What Is Dischargeable Debt in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/dischargeable-debt.html
+- What Is Dismissal in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/dismissal.html
+- What Is Disposable Income in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/disposable-income.html
+- What Is Domestic Support Obligation in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/domestic-support-obligation.html
+- What Is Estate Property in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/estate-property.html
+- What Is Exempt Property in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/exempt-property.html
+- What Is Feasibility in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/feasibility.html
+- What Is Filing Fee in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/filing-fee.html
+- What Is Fresh Start in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/fresh-start.html
+- What Is Good Faith in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/good-faith.html
+- What Is Homestead Exemption in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/homestead-exemption.html
+- Bankruptcy Glossary -- 61 Terms Defined: https://whathappensinbankruptcy.com/glossary/index.html
+- What Is Involuntary Petition in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/involuntary-petition.html
+- What Is Lien Avoidance in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/lien-avoidance.html
+- What Is Lien Stripping in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/lien-stripping.html
+- What Is Lien in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/lien.html
+- What Is Liquidation in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/liquidation.html
+- What Is Means Test in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/means-test.html
+- What Is Meeting of Creditors in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/meeting-of-creditors.html
+- What Is Motion for Relief from Stay in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/motion-for-relief-from-stay.html
+- What Is No-Asset Case in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/no-asset-case.html
+- What Is Nondischargeable Debt in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/nondischargeable-debt.html
+- What Is Objection to Discharge in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/objection-to-discharge.html
+- What Is Petition Preparer in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/petition-preparer.html
+- What Is Plan Modification in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/plan-modification.html
+- What Is Preference in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/preference.html
+- What Is Priority Claim in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/priority-claim.html
+- What Is Proof of Claim in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/proof-of-claim.html
+- What Is Reaffirmation Agreement in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/reaffirmation-agreement.html
+- What Is Redemption in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/redemption.html
+- What Is Schedules in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/schedules.html
+- What Is Secured Claim in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/secured-claim.html
+- What Is Serial Filer in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/serial-filer.html
+- What Is Statement of Financial Affairs in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/statement-of-financial-affairs.html
+- What Is Stay Violation in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/stay-violation.html
+- What Is Substantial Abuse in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/substantial-abuse.html
+- What Is Trustee in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/trustee.html
+- What Is Unsecured Claim in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/unsecured-claim.html
+- What Is Voluntary Petition in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/voluntary-petition.html
+- What Is Wildcard Exemption in Bankruptcy? | Definition and Guide: https://whathappensinbankruptcy.com/glossary/wildcard-exemption.html
+- Glosario de Bancarrota en Espanol -- 61 Terminos Definidos: https://whathappensinbankruptcy.com/glossary-es/
+- Que es Abandono de Bienes en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/abandono-de-bienes.html
+- Que es Abuso Sustancial en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/abuso-sustancial.html
+- Que es Accion Revocatoria en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/accion-revocatoria.html
+- Que es Acuerdo de Reafirmacion en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/acuerdo-reafirmacion.html
+- Que es Anulacion de Gravamen en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/anulacion-gravamen.html
+- Que es Buena Fe en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/buena-fe.html
+- Que es Capitulo 11 en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/capitulo-11.html
+- Que es Capitulo 13 en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/capitulo-13.html
+- Que es Capitulo 7 en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/capitulo-7.html
+- Que es Caso Sin Activos en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/caso-sin-activos.html
+- Que es Confirmacion en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/confirmacion.html
+- Que es Declaracion de Asuntos Financieros en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/declaracion-asuntos-financieros.html
+- Que es Declarante Serial en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/declarante-serial.html
+- Que es Descarga en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/descarga.html
+- Que es Desestimacion en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/desestimacion.html
+- Que es Deuda Descargable en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/deuda-descargable.html
+- Que es Deuda No Descargable en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/deuda-no-descargable.html
+- Que es Deudor en Posesion en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/deudor-en-posesion.html
+- Que es Eliminacion de Gravamen en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/eliminacion-gravamen.html
+- Que es Exencion Comodin en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/exencion-comodin.html
+- Que es Exencion de Vivienda en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/exencion-vivienda.html
+- Que es Fideicomisario en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/fideicomisario.html
+- Que es Fideicomisario del Caso en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/fideicomisario-del-caso.html
+- Que es Formularios de Bancarrota en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/formularios.html
+- Que es Gravamen en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/gravamen.html
+- Que es Ingreso Disponible en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/ingreso-disponible.html
+- Que es Ingreso Mensual Actual en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/ingreso-mensual-actual.html
+- Que es Ingresos Superiores a la Mediana en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/ingresos-superiores-mediana.html
+- Que es Liquidacion en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/liquidacion.html
+- Que es Mocion de Levantamiento de Suspension en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/mocion-levantamiento-suspension.html
+- Que es Modificacion del Plan en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/modificacion-plan.html
+- Que es Nuevo Comienzo en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/nuevo-comienzo.html
+- Que es Objecion a la Descarga en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/objecion-descarga.html
+- Que es Obligacion de Manutencion Domestica en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/obligacion-manutencion-domestica.html
+- Que es Orden de Descarga en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/orden-de-descarga.html
+- Que es Patrimonio Concursal en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/patrimonio-concursal.html
+- Que es Peticion de Bancarrota en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/peticion-de-bancarrota.html
+- Que es Peticion Involuntaria en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/peticion-involuntaria.html
+- Que es Peticion Minima en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/peticion-minima.html
+- Que es Peticion Voluntaria en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/peticion-voluntaria.html
+- Que es Preferencia en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/preferencia.html
+- Que es Preparador de Peticiones en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/preparador-peticiones.html
+- Que es Procedimiento Adversario en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/procedimiento-adversario.html
+- Que es Propiedad Exenta en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/propiedad-exenta.html
+- Que es Propiedad del Patrimonio en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/propiedad-patrimonio.html
+- Que es Proteccion Adecuada en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/proteccion-adecuada.html
+- Que es Prueba de Medios en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/prueba-de-medios.html
+- Que es Prueba de Reclamacion en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/prueba-de-reclamacion.html
+- Que es Prueba del Mejor Interes en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/prueba-mejor-interes.html
+- Que es Reclamacion en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/reclamacion.html
+- Que es Reclamacion Garantizada en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/reclamacion-garantizada.html
+- Que es Reclamacion No Garantizada en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/reclamacion-no-garantizada.html
+- Que es Reclamacion Prioritaria en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/reclamacion-prioritaria.html
+- Que es Redencion en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/redencion.html
+- Que es Reduccion Forzada en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/reduccion-forzada.html
+- Que es Reunion 341 en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/reunion-341.html
+- Que es Reunion de Acreedores en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/reunion-de-acreedores.html
+- Que es Suspension Automatica en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/suspension-automatica.html
+- Que es Tarifa de Presentacion en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/tarifa-de-presentacion.html
+- Que es Viabilidad en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/viabilidad.html
+- Que es Violacion de la Suspension en la Bancarrota? | Definicion y Guia: https://whathappensinbankruptcy.com/glossary-es/violacion-suspension.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
