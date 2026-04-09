@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://whathappensinbankruptcy.com/sitemapindex.xml
+Sitemap: https://whathappensinbankruptcy.com/sitemap.xml
