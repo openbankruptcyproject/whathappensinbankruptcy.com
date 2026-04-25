@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>What Is Meeting of Creditors in Bankruptcy? | Definition and Guide</title>
+<meta content="What is meeting of creditors in bankruptcy? Clear definition, how it works, key facts, and FAQs. Free educational guide from the Bankru..." name="description"/>
+<link href="https://whathappensinbankruptcy.com/glossary/meeting-of-creditors.html" rel="canonical"/>
+<link href="https://whathappensinbankruptcy.com/glossary/meeting-of-creditors.html" hreflang="en" rel="alternate"/>
+<link href="https://whathappensinbankruptcy.com/glossary-es/reunion-de-acreedores.html" hreflang="es" rel="alternate"/>
+<meta content="What Is Meeting of Creditors in Bankruptcy? | Definition and Guide" property="og:title"/>
+<meta content="What is meeting of creditors in bankruptcy? Clear definition, how it works, key facts, and FAQs. Free educational guide from the Bankru..." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://whathappensinbankruptcy.com/glossary/meeting-of-creditors.html" property="og:url"/>
+<meta content="whathappensinbankruptcy.com" property="og:site_name"/>
+<meta content="https://openbankruptcyproject.org/og-default.svg" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="What Is Meeting of Creditors in Bankruptcy? | Definition and Guide" name="twitter:title"/>
+<meta content="What is meeting of creditors in bankruptcy? Clear definition, how it works, key facts, and FAQs. Free educational guide from the Bankru..." name="twitter:description"/>
+<meta content="https://openbankruptcyproject.org/og-default.svg" name="twitter:image"/>
+<meta content="#0d1117" name="theme-color"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://whathappensinbankruptcy.com/"},{"@type":"ListItem","position":2,"name":"Glossary","item":"https://whathappensinbankruptcy.com/glossary/"},{"@type":"ListItem","position":3,"name":"Meeting of Creditors","item":"https://whathappensinbankruptcy.com/glossary/meeting-of-creditors.html"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"What Is Meeting of Creditors in Bankruptcy?","datePublished":"2026-04-01","dateModified":"2026-04-01","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://openbankruptcyproject.org"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need a lawyer at the 341 meeting?","acceptedAnswer":{"@type":"Answer","text":"If you have an attorney, they will attend with you. If you are pro se, you attend alone. Having an attorney is helpful because they can prepare you for questions, but many pro se debtors successfully navigate the meeting."}},{"@type":"Question","name":"What documents do I need to bring?","acceptedAnswer":{"@type":"Answer","text":"You must bring a government-issued photo ID (driver&#x27;s license, passport) and proof of your Social Security number (Social Security card, tax return, W-2). Some trustees require recent pay stubs and bank statements as well."}},{"@type":"Question","name":"Can the 341 meeting be done by phone?","acceptedAnswer":{"@type":"Answer","text":"Many districts now allow telephonic or video 341 meetings, especially since COVID-19. Check with your local court or trustee for the current policy. Some districts have returned to in-person meetings while others remain virtual."}}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebPage", "name": "What Is Meeting of Creditors in Bankruptcy?", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p", ".content-section h2", ".content-section p"]}, "url": "https://whathappensinbankruptcy.com/glossary/meeting-of-creditors.html"}
+</script>
+<style>
+:root { --bg:#0d1117; --surface:#151b23; --border:#30363d; --text:#e6edf3;
+  --text-muted:#9eaab6; --accent:#58a6ff; --green:#3fb950; --red:#f85149;
+  --orange:#d29922; }
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  background:var(--bg);color:var(--text);line-height:1.7}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:860px;margin:0 auto;padding:2rem 1.5rem}
+header{text-align:center;padding:3rem 1rem 2rem;border-bottom:1px solid var(--border)}
+header h1{font-size:2.2rem;margin-bottom:.5rem}
+header .subtitle{color:var(--text-muted);font-size:1.1rem}
+.breadcrumb{color:var(--text-muted);font-size:.85rem;margin-top:.5rem}
+.breadcrumb a{color:var(--text-muted)}
+main{padding:0}
+.content-section{background:var(--surface);border:1px solid var(--border);
+  border-radius:12px;padding:1.5rem 2rem;margin:1.5rem 0}
+.content-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem;
+  border-bottom:1px solid var(--border);padding-bottom:.5rem}
+.content-section p{margin-bottom:1rem;color:var(--text)}
+.content-section p:last-child{margin-bottom:0}
+.content-section ul{margin:0 0 1rem 1.5rem;color:var(--text)}
+.content-section li{margin-bottom:.5rem}
+.faq-section{margin:2rem 0}
+.faq-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem}
+.faq-item{background:var(--surface);border:1px solid var(--border);
+  border-radius:8px;margin:.75rem 0;padding:1rem 1.5rem}
+.faq-item h3{color:var(--text);font-size:1rem;margin-bottom:.5rem}
+.faq-item p{color:var(--text-muted);font-size:.95rem;margin:0}
+.cta-box{background:linear-gradient(135deg,#1a1f2e,#0d1117);
+  border:2px solid var(--accent);border-radius:12px;padding:2rem;
+  text-align:center;margin:2rem 0}
+.cta-box p{font-size:1.1rem;margin-bottom:1rem}
+.btn{display:inline-block;background:var(--accent);color:#0d1117;
+  padding:.75rem 2rem;border-radius:8px;font-weight:700;text-decoration:none}
+.btn:hover{opacity:.9;text-decoration:none}
+.about-data{background:var(--surface);border:1px solid var(--border);
+  border-radius:8px;padding:1.5rem;margin:2rem 0;font-size:.9rem;color:var(--text-muted)}
+.network-footer{text-align:center;padding:2rem 1rem;margin-top:2rem;
+  border-top:1px solid var(--border);font-size:.85rem;color:var(--text-muted)}
+.network-footer strong{color:var(--text)}
+.network-footer .links{margin:1rem 0;line-height:2}
+.network-footer .links a{margin:0 .5rem}
+.network-footer .disclaimer{font-size:.75rem;margin-top:1rem}
+@media(max-width:600px){.container{padding:1rem}.content-section{padding:1rem 1.25rem}
+  header h1{font-size:1.6rem}}
+</style>
+</head>
+<body>
+<header>
+<h1>What Is Meeting of Creditors in Bankruptcy?</h1>
+<p class="breadcrumb"><a href="/">Home</a> › <a href="/glossary/">Glossary</a> › Meeting of Creditors</p>
+</header>
+<div class="container">
+<main id="main-content">
+<div class="content-section">
+<p><strong>The <a href="https://341meeting.org/" title="341 meeting">meeting of creditors</a>, also called the 341 meeting, is a mandatory hearing in every bankruptcy case where the debtor is questioned under oath by the trustee and any creditors who attend. Despite its name, creditors rarely appear in consumer cases. The meeting typically lasts 5 to 15 minutes.</strong></p>
+</div>
+<div class="content-section">
+<h2>How It Works</h2>
+<p>The <a href="https://341meeting.org/" title="341 meeting">meeting of creditors</a> is required by 11 U.S.C. Section 341(a) and is scheduled approximately 21-40 days after the petition is filed. The debtor must attend, present government-issued photo identification and proof of Social Security number, and answer questions about the accuracy and completeness of the bankruptcy schedules.</p>
+<p>The trustee conducts the meeting and asks standard questions: Did you list all your assets? Did you list all your debts? Have you made any transfers of property in the last few years? Is all the information in your petition true and correct? The trustee may also ask follow-up questions about specific assets, income, or transactions.</p>
+<p>Creditors have the right to attend and ask questions, but in consumer cases they almost never do. The meeting is not held in a courtroom and the judge does not attend. After the meeting, creditors have 60 days to file complaints objecting to the debtor's <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> or the dischargeability of specific debts.</p>
+</div>
+<div class="content-section">
+<h2>Key Facts</h2>
+<ul>
+<li>Required by 11 U.S.C. Section 341(a) in every bankruptcy case</li>
+<li>Scheduled 21-40 days after filing</li>
+<li>The debtor testifies under oath</li>
+<li>No judge is present - the trustee runs the meeting</li>
+<li>Creditors rarely attend in consumer cases</li>
+</ul>
+</div>
+<div class="content-section" style="border-color:var(--green)">
+<h2>Related BTN Guide</h2>
+<p>For a deeper dive, see our dedicated guide: <a href="https://341meeting.org">341 Meeting Guide</a></p>
+</div>
+<div class="faq-section">
+<h2>Frequently Asked Questions</h2>
+<div class="faq-item">
+<h3>Do I need a lawyer at the 341 meeting?</h3>
+<p>If you have an attorney, they will attend with you. If you are <a href="https://prosebankruptcy.org/" title="pro se">pro se</a>, you attend alone. Having an attorney is helpful because they can prepare you for questions, but many <a href="https://prosebankruptcy.org/" title="pro se">pro se</a> debtors successfully navigate the meeting.</p>
+</div>
+<div class="faq-item">
+<h3>What documents do I need to bring?</h3>
+<p>You must bring a government-issued photo ID (driver's license, passport) and proof of your Social Security number (Social Security card, tax return, W-2). Some trustees require recent pay stubs and bank statements as well.</p>
+</div>
+<div class="faq-item">
+<h3>Can the 341 meeting be done by phone?</h3>
+<p>Many districts now allow telephonic or video 341 meetings, especially since COVID-19. Check with your local court or trustee for the current policy. Some districts have returned to in-person meetings while others remain virtual.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Related Terms</h2>
+<div style="display:flex;flex-wrap:wrap;gap:0.25rem">
+<a href="/glossary/341-meeting.html" style="display:inline-block;background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:0.5rem 1rem;margin:0.25rem;color:var(--accent);text-decoration:none;font-size:0.9rem">341 Meeting</a>
+<a href="/glossary/case-trustee.html" style="display:inline-block;background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:0.5rem 1rem;margin:0.25rem;color:var(--accent);text-decoration:none;font-size:0.9rem">Case Trustee</a>
+<a href="/glossary/discharge.html" style="display:inline-block;background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:0.5rem 1rem;margin:0.25rem;color:var(--accent);text-decoration:none;font-size:0.9rem">Discharge</a>
+<a href="/glossary/bankruptcy-petition.html" style="display:inline-block;background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:0.5rem 1rem;margin:0.25rem;color:var(--accent);text-decoration:none;font-size:0.9rem">Bankruptcy Petition</a>
+</div>
+<p style="margin-top:1rem;font-size:0.9rem"><a href="/glossary/">Browse all glossary terms →</a></p>
+</div>
+<div class="cta-box">
+<p>Check your bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eligibility with our free screening tool.</p>
+<a class="btn" href="https://1328f.com?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Free Discharge Screener</a>
+</div>
+<div class="about-data">
+<strong>About This Data:</strong> Content based on federal bankruptcy law (Title 11, U.S. Code).
+    District-level statistics from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+    This is educational content, not legal advice.
+  </div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://341meeting.org" style="color:#58a6ff;text-decoration:none">What to Expect at a 341 Meeting</a></li>
+<li><a href="https://creditcounselingbankruptcy.org" style="color:#58a6ff;text-decoration:none">Credit Counseling for Bankruptcy</a></li>
+<li><a href="https://reaffirmationagreement.org" style="color:#58a6ff;text-decoration:none">Reaffirmation Agreements Explained</a></li>
+<li><a href="https://paydayloandebt.org" style="color:#58a6ff;text-decoration:none">Payday Loan Debt in Bankruptcy</a></li>
+</ul>
+</div>
+<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
+<a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
+</div>
+</main>
+</div>
+<footer class="network-footer" role="contentinfo">
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<p>Real information, no strings.</p>
+<div class="links">
+<a href="https://1328f.com?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Discharge Screener</a>
+<a href="https://openbankruptcyproject.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Open Bankruptcy Project</a>
+<a href="https://chapter7vs13.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Ch.7 vs Ch.13</a>
+<a href="https://automaticstay.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Automatic Stay</a>
+<a href="https://341meeting.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">341 Meeting</a>
+<a href="https://bankruptcyexemptionsbystate.com?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Exemptions by State</a>
+<a href="https://meanstest.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Means Test</a>
+<a href="https://whathappensinbankruptcy.com">whathappensinbankruptcy.com</a>
+<a href="https://github.com/sponsors/openbankruptcyproject">GitHub Sponsors</a>
+</div>
+<p class="disclaimer">Free bankruptcy education for the public interest. Not legal advice.
+    If you need legal help, contact a licensed attorney in your state.
+    A project of the <a href="https://openbankruptcyproject.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Open Bankruptcy Project</a>,
+    a 501(c)(3) nonprofit.</p>
+<p><a href="https://openbankruptcyproject.org/privacy.html?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Privacy</a> |
+     <a href="https://openbankruptcyproject.org/terms.html?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Terms</a></p>
+</footer>
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>What Is Debtor in Possession in Bankruptcy? | Definition and Guide</title>
+<meta content="What is debtor in possession in bankruptcy? Clear definition, how it works, key facts, and FAQs. Free educational guide from the Bankru..." name="description"/>
+<link href="https://whathappensinbankruptcy.com/glossary/debtor-in-possession.html" rel="canonical"/>
+<link href="https://whathappensinbankruptcy.com/glossary/debtor-in-possession.html" hreflang="en" rel="alternate"/>
+<link href="https://whathappensinbankruptcy.com/glossary-es/deudor-en-posesion.html" hreflang="es" rel="alternate"/>
+<meta content="What Is Debtor in Possession in Bankruptcy? | Definition and Guide" property="og:title"/>
+<meta content="What is debtor in possession in bankruptcy? Clear definition, how it works, key facts, and FAQs. Free educational guide from the Bankru..." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://whathappensinbankruptcy.com/glossary/debtor-in-possession.html" property="og:url"/>
+<meta content="whathappensinbankruptcy.com" property="og:site_name"/>
+<meta content="https://openbankruptcyproject.org/og-default.svg" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="What Is Debtor in Possession in Bankruptcy? | Definition and Guide" name="twitter:title"/>
+<meta content="What is debtor in possession in bankruptcy? Clear definition, how it works, key facts, and FAQs. Free educational guide from the Bankru..." name="twitter:description"/>
+<meta content="https://openbankruptcyproject.org/og-default.svg" name="twitter:image"/>
+<meta content="#0d1117" name="theme-color"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://whathappensinbankruptcy.com/"},{"@type":"ListItem","position":2,"name":"Glossary","item":"https://whathappensinbankruptcy.com/glossary/"},{"@type":"ListItem","position":3,"name":"Debtor in Possession","item":"https://whathappensinbankruptcy.com/glossary/debtor-in-possession.html"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"What Is Debtor in Possession in Bankruptcy?","datePublished":"2026-04-01","dateModified":"2026-04-01","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://openbankruptcyproject.org"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can the DIP borrow money?","acceptedAnswer":{"@type":"Answer","text":"Yes, but obtaining new financing (DIP financing) requires court approval under Section 364. DIP lenders often receive super-priority administrative expense status or liens on estate property, making DIP financing expensive."}},{"@type":"Question","name":"What is the difference between a DIP and a trustee?","acceptedAnswer":{"@type":"Answer","text":"A DIP is the debtor managing its own affairs. A trustee is a court-appointed outsider who replaces management. In most Chapter 11 cases, the debtor remains as DIP. A trustee is appointed only in rare cases involving fraud or gross mismanagement."}},{"@type":"Question","name":"Does the DIP concept apply in Chapter 13?","acceptedAnswer":{"@type":"Answer","text":"Not formally. Chapter 13 debtors keep possession of their property but do not hold the legal title of &#x27;debtor in possession.&#x27; The concept is specific to Chapter 11."}}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebPage", "name": "What Is Debtor in Possession in Bankruptcy?", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p", ".content-section h2", ".content-section p"]}, "url": "https://whathappensinbankruptcy.com/glossary/debtor-in-possession.html"}
+</script>
+<style>
+:root { --bg:#0d1117; --surface:#151b23; --border:#30363d; --text:#e6edf3;
+  --text-muted:#9eaab6; --accent:#58a6ff; --green:#3fb950; --red:#f85149;
+  --orange:#d29922; }
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  background:var(--bg);color:var(--text);line-height:1.7}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:860px;margin:0 auto;padding:2rem 1.5rem}
+header{text-align:center;padding:3rem 1rem 2rem;border-bottom:1px solid var(--border)}
+header h1{font-size:2.2rem;margin-bottom:.5rem}
+header .subtitle{color:var(--text-muted);font-size:1.1rem}
+.breadcrumb{color:var(--text-muted);font-size:.85rem;margin-top:.5rem}
+.breadcrumb a{color:var(--text-muted)}
+main{padding:0}
+.content-section{background:var(--surface);border:1px solid var(--border);
+  border-radius:12px;padding:1.5rem 2rem;margin:1.5rem 0}
+.content-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem;
+  border-bottom:1px solid var(--border);padding-bottom:.5rem}
+.content-section p{margin-bottom:1rem;color:var(--text)}
+.content-section p:last-child{margin-bottom:0}
+.content-section ul{margin:0 0 1rem 1.5rem;color:var(--text)}
+.content-section li{margin-bottom:.5rem}
+.faq-section{margin:2rem 0}
+.faq-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem}
+.faq-item{background:var(--surface);border:1px solid var(--border);
+  border-radius:8px;margin:.75rem 0;padding:1rem 1.5rem}
+.faq-item h3{color:var(--text);font-size:1rem;margin-bottom:.5rem}
+.faq-item p{color:var(--text-muted);font-size:.95rem;margin:0}
+.cta-box{background:linear-gradient(135deg,#1a1f2e,#0d1117);
+  border:2px solid var(--accent);border-radius:12px;padding:2rem;
+  text-align:center;margin:2rem 0}
+.cta-box p{font-size:1.1rem;margin-bottom:1rem}
+.btn{display:inline-block;background:var(--accent);color:#0d1117;
+  padding:.75rem 2rem;border-radius:8px;font-weight:700;text-decoration:none}
+.btn:hover{opacity:.9;text-decoration:none}
+.about-data{background:var(--surface);border:1px solid var(--border);
+  border-radius:8px;padding:1.5rem;margin:2rem 0;font-size:.9rem;color:var(--text-muted)}
+.network-footer{text-align:center;padding:2rem 1rem;margin-top:2rem;
+  border-top:1px solid var(--border);font-size:.85rem;color:var(--text-muted)}
+.network-footer strong{color:var(--text)}
+.network-footer .links{margin:1rem 0;line-height:2}
+.network-footer .links a{margin:0 .5rem}
+.network-footer .disclaimer{font-size:.75rem;margin-top:1rem}
+@media(max-width:600px){.container{padding:1rem}.content-section{padding:1rem 1.25rem}
+  header h1{font-size:1.6rem}}
+</style>
+</head>
+<body>
+<header>
+<h1>What Is Debtor in Possession in Bankruptcy?</h1>
+<p class="breadcrumb"><a href="/">Home</a> › <a href="/glossary/">Glossary</a> › Debtor in Possession</p>
+</header>
+<div class="container">
+<main id="main-content">
+<div class="content-section">
+<p><strong>A <a href="https://section1191.org/" title="debtor in possession">debtor in possession</a> (DIP) is a debtor in a Chapter 11 bankruptcy case who retains control of their assets and continues to operate their business under court supervision. The DIP has most of the powers and duties of a trustee, including the duty of loyalty to creditors.</strong></p>
+</div>
+<div class="content-section">
+<h2>How It Works</h2>
+<p>In Chapter 11, the debtor automatically becomes the <a href="https://section1191.org/" title="debtor in possession">debtor in possession</a> when the case is filed. Unlike <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, no trustee is appointed to take over the business. The DIP continues to manage day-to-day operations, pay employees, serve customers, and run the business in the ordinary course.</p>
+<p>The DIP has enhanced obligations compared to operating outside of bankruptcy. The DIP must file monthly operating reports with the court, maintain adequate insurance, pay post-petition taxes, and operate in the best interests of creditors. The DIP cannot make extraordinary transactions (selling assets outside the ordinary course, obtaining new financing) without court approval.</p>
+<p>If the DIP engages in fraud, dishonesty, incompetence, or gross mismanagement, the court can appoint a Chapter 11 trustee to replace the DIP. This is relatively rare - courts prefer to leave the debtor in control when possible, especially in small business cases under Subchapter V.</p>
+</div>
+<div class="content-section">
+<h2>Key Facts</h2>
+<ul>
+<li>The debtor automatically becomes DIP upon Chapter 11 filing - no appointment needed</li>
+<li>Has most powers and duties of a trustee under 11 U.S.C. Section 1107</li>
+<li>Must file monthly operating reports and maintain insurance</li>
+<li>Can operate in the ordinary course without court approval</li>
+<li>A Chapter 11 trustee replaces the DIP only for cause (fraud, mismanagement)</li>
+</ul>
+</div>
+<div class="faq-section">
+<h2>Frequently Asked Questions</h2>
+<div class="faq-item">
+<h3>Can the DIP borrow money?</h3>
+<p>Yes, but obtaining new financing (DIP financing) requires court approval under Section 364. DIP lenders often receive super-priority administrative expense status or liens on estate property, making DIP financing expensive.</p>
+</div>
+<div class="faq-item">
+<h3>What is the difference between a DIP and a trustee?</h3>
+<p>A DIP is the debtor managing its own affairs. A trustee is a court-appointed outsider who replaces management. In most Chapter 11 cases, the debtor remains as DIP. A trustee is appointed only in rare cases involving fraud or gross mismanagement.</p>
+</div>
+<div class="faq-item">
+<h3>Does the DIP concept apply in Chapter 13?</h3>
+<p>Not formally. <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> debtors keep possession of their property but do not hold the legal title of 'debtor in possession.' The concept is specific to Chapter 11.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Related Terms</h2>
+<div style="display:flex;flex-wrap:wrap;gap:0.25rem">
+<a href="/glossary/chapter-11.html" style="display:inline-block;background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:0.5rem 1rem;margin:0.25rem;color:var(--accent);text-decoration:none;font-size:0.9rem">Chapter 11</a>
+<a href="/glossary/case-trustee.html" style="display:inline-block;background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:0.5rem 1rem;margin:0.25rem;color:var(--accent);text-decoration:none;font-size:0.9rem">Case Trustee</a>
+<a href="/glossary/confirmation.html" style="display:inline-block;background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:0.5rem 1rem;margin:0.25rem;color:var(--accent);text-decoration:none;font-size:0.9rem">Confirmation</a>
+<a href="/glossary/adequate-protection.html" style="display:inline-block;background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:0.5rem 1rem;margin:0.25rem;color:var(--accent);text-decoration:none;font-size:0.9rem">Adequate Protection</a>
+</div>
+<p style="margin-top:1rem;font-size:0.9rem"><a href="/glossary/">Browse all glossary terms →</a></p>
+</div>
+<div class="cta-box">
+<p>Check your bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eligibility with our free screening tool.</p>
+<a class="btn" href="https://1328f.com?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Free Discharge Screener</a>
+</div>
+<div class="about-data">
+<strong>About This Data:</strong> Content based on federal bankruptcy law (Title 11, U.S. Code).
+    District-level statistics from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+    This is educational content, not legal advice.
+  </div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://341meeting.org" style="color:#58a6ff;text-decoration:none">What to Expect at a 341 Meeting</a></li>
+<li><a href="https://creditcounselingbankruptcy.org" style="color:#58a6ff;text-decoration:none">Credit Counseling for Bankruptcy</a></li>
+<li><a href="https://reaffirmationagreement.org" style="color:#58a6ff;text-decoration:none">Reaffirmation Agreements Explained</a></li>
+<li><a href="https://paydayloandebt.org" style="color:#58a6ff;text-decoration:none">Payday Loan Debt in Bankruptcy</a></li>
+</ul>
+</div>
+</main>
+</div>
+<footer class="network-footer" role="contentinfo">
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<p>Real information, no strings.</p>
+<div class="links">
+<a href="https://1328f.com?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Discharge Screener</a>
+<a href="https://openbankruptcyproject.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Open Bankruptcy Project</a>
+<a href="https://chapter7vs13.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Ch.7 vs Ch.13</a>
+<a href="https://automaticstay.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Automatic Stay</a>
+<a href="https://341meeting.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">341 Meeting</a>
+<a href="https://bankruptcyexemptionsbystate.com?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Exemptions by State</a>
+<a href="https://meanstest.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Means Test</a>
+<a href="https://whathappensinbankruptcy.com">whathappensinbankruptcy.com</a>
+<a href="https://github.com/sponsors/openbankruptcyproject">GitHub Sponsors</a>
+</div>
+<p class="disclaimer">Free bankruptcy education for the public interest. Not legal advice.
+    If you need legal help, contact a licensed attorney in your state.
+    A project of the <a href="https://openbankruptcyproject.org?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Open Bankruptcy Project</a>,
+    a 501(c)(3) nonprofit.</p>
+<p><a href="https://openbankruptcyproject.org/privacy.html?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Privacy</a> |
+     <a href="https://openbankruptcyproject.org/terms.html?utm_source=whathappensinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Terms</a></p>
+</footer>
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>
