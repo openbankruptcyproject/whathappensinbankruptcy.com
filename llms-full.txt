@@ -1575,7 +1575,7 @@ Si. Si la exencion de vehiculo de su estado no es suficiente para cubrir toda la
 
 Que es la porcion no utilizada de la exencion de vivienda?
 
-Si no usa toda su exencion de vivienda (por ejemplo, porque alquila en lugar de ser propietario), puede usar hasta $13,950 de la porcion no utilizada como exencion comodin adicional.
+Si no usa toda su exencion de vivienda (por ejemplo, porque alquila en lugar de ser propietario), puede usar hasta $15,800 de la porcion no utilizada como exencion comodin adicional.
 
 Terminos Relacionados
 
@@ -6223,7 +6223,7 @@ Chapter 11 allows businesses to continue operations while restructuring their de
 
 The debtor in possession (DIP) manages the business during the case with many of the powers and duties of a trustee. The DIP can use, sell, or lease property in the ordinary course of business without court approval. A creditors' committee may be appointed to represent unsecured creditors' interests.
 
-Small businesses with less than $7.5 million in debt (excluding debt to insiders) can elect Subchapter V, which streamlines the process: shorter timelines, no creditors' committee, no disclosure statement, and the ability to confirm a plan over creditor objections more easily.
+Small businesses with less than $3,424,000 in debt (excluding debt to insiders) can elect Subchapter V, which streamlines the process: shorter timelines, no creditors' committee, no disclosure statement, and the ability to confirm a plan over creditor objections more easily.
 
 Key Facts
 
@@ -6233,7 +6233,7 @@ The debtor usually remains in possession as a debtor in possession (DIP)
 
 Filing fees are $1,738 - significantly higher than Chapter 7 or 13
 
-Subchapter V is available for small businesses with debt under $7.5 million
+Subchapter V is available for small businesses with debt under $3,424,000
 
 Plan must be accepted by creditors or 'crammed down' over their objection
 
@@ -6245,11 +6245,11 @@ Frequently Asked Questions
 
 Can individuals file Chapter 11?
 
-Yes. Individuals with debts exceeding Chapter 13 limits ($2,750,000) or those who prefer Chapter 11's flexibility file individual Chapter 11 cases. This is less common but not unusual for high-income professionals or business owners.
+Yes. Individuals with debts exceeding Chapter 13 limits ($526,700 unsecured or $1,580,125 secured) or those who prefer Chapter 11's flexibility file individual Chapter 11 cases. This is less common but not unusual for high-income professionals or business owners.
 
 What is Subchapter V?
 
-Subchapter V is a streamlined version of Chapter 11 for small businesses with less than $7.5 million in non-insider debt. It eliminates the disclosure statement requirement, shortens timelines, and allows the debtor to confirm a plan without creditor acceptance in some circumstances.
+Subchapter V is a streamlined version of Chapter 11 for small businesses with less than $3,424,000 in non-insider debt. It eliminates the disclosure statement requirement, shortens timelines, and allows the debtor to confirm a plan without creditor acceptance in some circumstances.
 
 How long does Chapter 11 take?
 
@@ -6327,7 +6327,7 @@ Key Facts
 
 Available only to individuals (not businesses) with regular income
 
-Debt limits: $2,750,000 in total debt (as of 2024 BAPPA adjustments)
+Debt limits: $526,700 unsecured and $1,580,125 secured (as of the April 1, 2025 adjustment)
 
 Plan length: 3 years (below median) or 5 years (above median)
 
@@ -8175,7 +8175,7 @@ The homestead exemption protects a specified dollar amount of equity in the debt
 
 State exemption amounts vary enormously. Texas and Florida offer unlimited homestead exemptions - a debtor could have $10 million in home equity and it would be fully protected. At the other extreme, states like New Jersey and Maryland offer exemptions of only $25,000 or less. Some states allow married couples to double the exemption.
 
-BAPCPA imposed a cap on homestead exemptions for recently purchased homes: if the debtor acquired the home within 1,215 days (about 3.3 years) of filing, the exemption is capped at $189,050 (adjusted periodically) regardless of state law. This prevents debtors from buying expensive homes in unlimited-exemption states right before filing.
+BAPCPA imposed a cap on homestead exemptions for recently purchased homes: if the debtor acquired the home within 1,215 days (about 3.3 years) of filing, the exemption is capped at $214,000 (adjusted periodically) regardless of state law. This prevents debtors from buying expensive homes in unlimited-exemption states right before filing.
 
 Key Facts
 
@@ -9799,7 +9799,7 @@ A priority claim is a debt that receives special treatment in bankruptcy and mus
 
 How It Works
 
-Priority claims are ranked in order by 11 U.S.C. Section 507(a). The highest priority goes to domestic support obligations, followed by administrative expenses (trustee fees, attorney fees, costs of preserving the estate), then gap claims in involuntary cases, then employee wages (up to $15,150), then employee benefit plan contributions, and then specified tax claims.
+Priority claims are ranked in order by 11 U.S.C. Section 507(a). The highest priority goes to domestic support obligations, followed by administrative expenses (trustee fees, attorney fees, costs of preserving the estate), then gap claims in involuntary cases, then employee wages (up to $17,150), then employee benefit plan contributions, and then specified tax claims.
 
 In Chapter 7 liquidation, estate funds are distributed according to the priority order. Each level must be paid in full before any distribution to the next level. If funds are insufficient to pay an entire priority level, distribution within that level is pro rata. General unsecured creditors receive distribution only after all priority claims are satisfied.
 
@@ -10683,7 +10683,7 @@ How It Works
 
 Before BAPCPA (2005), Section 707(b) allowed dismissal only for 'substantial abuse' - a higher bar that gave debtors more latitude. BAPCPA lowered this to simply 'abuse' and introduced the means test as a mechanical way to identify abuse. If the debtor's means test shows sufficient disposable income, a presumption of abuse arises.
 
-The presumption of abuse can be triggered in two ways: (1) the means test calculation on Form 122A-2 shows disposable income exceeding the statutory threshold (enough to pay at least 25% of general unsecured claims or $9,075 over 5 years), or (2) the totality of the debtor's financial circumstances shows the filing is an abuse of Chapter 7.
+The presumption of abuse can be triggered in two ways: (1) the means test calculation on Form 122A-2 shows disposable income exceeding the statutory threshold (enough to pay at least 25% of general unsecured claims or $10,275 over 5 years), or (2) the totality of the debtor's financial circumstances shows the filing is an abuse of Chapter 7.
 
 The debtor can rebut the presumption of abuse by showing 'special circumstances' - such as a serious medical condition, a call to active military duty, or other documented expenses that reduce disposable income below the threshold. The burden shifts to the debtor once the presumption arises.
 
@@ -11065,7 +11065,7 @@ The wildcard exemption allows a debtor to protect any type of property up to a s
 
 How It Works
 
-The federal wildcard exemption under 11 U.S.C. Section 522(d)(5) allows a debtor to exempt up to $1,475 of any property, plus up to $13,950 of any unused portion of the homestead exemption. This means a renter who does not use the homestead exemption can protect up to $15,425 in any property using the wildcard.
+The federal wildcard exemption under 11 U.S.C. Section 522(d)(5) allows a debtor to exempt up to $1,675 of any property, plus up to $15,800 of any unused portion of the homestead exemption. This means a renter who does not use the homestead exemption can protect up to $17,475 in any property using the wildcard.
 
 State wildcard exemptions vary significantly. Some states (like California's System 1, Missouri, and Ohio) offer generous wildcards of $5,000 or more. Other states offer no wildcard at all. The availability depends on whether the debtor's state allows the federal exemption choice and what the state's own wildcard provides.
 
@@ -11073,7 +11073,7 @@ The wildcard is often stacked with other exemptions. For example, a debtor might
 
 Key Facts
 
-Federal wildcard: $1,475 + up to $13,950 unused homestead = $15,425 max
+Federal wildcard: $1,675 + up to $15,800 unused homestead = $17,475 max
 
 Protects any type of property regardless of category
 
